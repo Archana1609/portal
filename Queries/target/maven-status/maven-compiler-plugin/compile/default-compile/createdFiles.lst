@@ -1,0 +1,5 @@
+com\example\demo\QueriesApplication.class
+com\example\demo\model.class
+com\example\demo\Controller\Econtroller.class
+com\example\demo\repo\Erepo.class
+com\example\demo\Service\Eservice.class
